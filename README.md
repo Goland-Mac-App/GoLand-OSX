@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.jetbrains.com/go/">
+  <a href="https://osx-get-software.github.io/.github/">
     <img src="https://img.shields.io/badge/Get%20GoLand-darkgreen?style=for-the-badge" alt="Get GoLand">
   </a>
 </p>
